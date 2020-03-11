@@ -1,0 +1,43 @@
+footer{
+    text-align: center;
+    padding: 1% 15%;
+    margin: auto;
+}
+
+th{
+    font-weight: 400;
+}
+
+h1, .h2-class{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+
+.container-fluid, .navbar{
+    padding: 1% 7%;
+}
+
+/* favicon */
+.fa-school{
+    color:#007bff
+}
+
+/* Form Section */
+.form-row{
+   margin-top: 30px;
+}
+
+.form-row .form-type {
+    padding-right:5%;
+}
+
+.form-row .form-table{
+padding: 0% 5%; 
+}
+
+/* Homepage */
+.home-div{
+    padding: 10% 15%;
+    background-color: rgba(236, 235, 235, 0.11);
+}
